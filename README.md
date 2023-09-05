@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **salmanrasool458@gmail.com**
 
-- 📄 Know about my experiences [3+ years experience](3+ years experience)
+- 📄 Know about my experiences [3+ years experience]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
