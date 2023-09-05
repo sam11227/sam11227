@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on [full stack project](https://resortifi.com/)
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **BACKEND**
 
 - 👨‍💻 All of my projects are available at [https://clockbook.com/](https://clockbook.com/)  [https://gilgit.app/](https://gilgit.app/) [https://resortifi.com](https://resortifi.com/)
 
-- 💬 Ask me about **react ,vue , typescript , nextjs**
+- 💬 Ask me about **REACT  ,  VUE  ,  TYPE-SCRIPT , NEXT-JS**
 
 - 📫 How to reach me **salmanrasool458@gmail.com**
 
