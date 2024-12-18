@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **BACKEND**
 
-- 👨‍💻 All of my projects are available at [https://clockbook.com/](https://clockbook.com/)  [https://gilgit.app/](https://gilgit.app/) [https://resortifi.com](https://resortifi.com/)
+- 👨‍💻 Some of my projects are available at [https://clockbook.com/](https://clockbook.com/)  [https://gilgit.app/](https://gilgit.app/) [https://resortifi.com](https://resortifi.com/)
 
 - 💬 Ask me about **REACT  ,  Svelte / Sveltekit  ,  TYPE-SCRIPT , NEXT-JS**
 
